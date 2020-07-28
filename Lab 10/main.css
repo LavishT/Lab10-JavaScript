@@ -1,0 +1,9 @@
+body{
+    background-color: lemonchiffon;
+}
+#map {
+    float: center;
+    margin-right: 50px;
+    height: 300px;
+    width: 450px;
+}
